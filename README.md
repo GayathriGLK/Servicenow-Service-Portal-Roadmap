@@ -60,3 +60,4 @@ Fork this repo, checkout to your system , create a branch to keep progress.
  - [ ] [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial/)
     - Please build this basic app to give you some confidence in making apps in AngularJS
  - [ ] [Service Portal | Anatomy of a Widget](https://www.youtube.com/watch?v=MllpUpcl6TI)
+    - This will help you understand the Widget lifecycle. This is most essential information when it comes to widget development.
