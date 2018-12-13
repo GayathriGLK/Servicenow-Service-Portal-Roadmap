@@ -57,7 +57,7 @@ Fork this repo, checkout to your system , create a branch to keep progress.
     - Service portal is basically a wrapper around AngularJS to help build SPA apps in servicenow
 
 ## Assignment Resources - Mandatory to complete beginner level.
-  - [ ] [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
+  - [X] [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
     - Although it is quite old, it gives a good introduction to AngularJS in simple language. A lot has changed since then, especially routing and how controllers are added to modules, but such changes won't have much impact on your service portal capabilities. So it is recommended you learn more on your own understand angular better.
   - [ ] [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial/)
     - Please build this basic app to get a basic confidence in making apps in AngularJS
