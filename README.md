@@ -1,10 +1,10 @@
 # Servicenow-Service-Portal-Roadmap
-This repository is expected to be a guideline for achieving a beginner level proficiency in using Service Portal in Servicenow.
+This repository is expected to be a guideline for achieving a beginner level proficiency in using Service Portal in Servicenow. ServiceNow is a big company with a big product, which can be a little bit intimidating when you’re starting out. In an effort to make onboarding as painless and straightforward as possible, I am putting this document up. There are long-form courses in everything from the ServiceNow product to Service Portal specifically. So a basic study plan is needed.
 
 
 ## What is it?
 
-This is a simple study plan for going from new joinees or team members to be able to build basic Service portal Apps in Servicenow and to ramp up their servicenow capabilities.
+This is a simple study plan for going from new joinees or new team member to be able to build basic Service portal Apps in Servicenow and to ramp up their servicenow capabilities.
 
 This is meant for **new engineers** or those who want to revise their service portal knowledge. If you are expert or have previous service portal development experience most of the content will seem very simple or easy to you.
 
@@ -68,6 +68,11 @@ Fork this repo, checkout to your system , create a branch to keep progress.
   - [ ] [Assignment]
     - You need to explore, service portal forms and links in navigation. Study about most of the topics in documentation and community and have basic level knowledge of terms such as portal, url suffix, theme, default pages, logo, branding editor etc
     - Build a basic app by creating a page and widget. Build the phone cat app again, and instead of routing as mentioned in the tutorial, communicate within widget in servicenow way.
+  - [ ] [Service Portal Documentation](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
+    - Go through the documentation, to get a better idea about widgets
+    - Specifically go through these 2 links for embedding widget and example widget provided by the platform.
+      1. https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/build/service-portal/concept/c_NestedWidgets.html
+      2. https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/sp-example-widgets.html
 
 ## Video resources -This is optional
   - [ ] [TechNow Ep 28 | Service Portal - Part 1 of 2](https://www.youtube.com/watch?v=wzCGZ5Mq5iU)
