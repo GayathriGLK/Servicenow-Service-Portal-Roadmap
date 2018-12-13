@@ -59,7 +59,7 @@ Fork this repo, checkout to your system , create a branch to keep progress.
 ## Assignment Resources - Mandatory to complete beginner level.
   - [X] [AngularJS Fundamentals In 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
     - Although it is quite old, it gives a good introduction to AngularJS in simple language. A lot has changed since then, especially routing and how controllers are added to modules, but such changes won't have much impact on your service portal capabilities. So it is recommended you learn more on your own understand angular better.
-  - [ ] [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial/)
+  - [X] [PhoneCat Tutorial App](https://docs.angularjs.org/tutorial/)
     - Please build this basic app to get a basic confidence in making apps in AngularJS
   - [ ] [John Papa Style guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
     - We follow the above style guide in our project mostly. This is endorsed by the angular team itself.
